@@ -1,6 +1,6 @@
 # Has Many Through Relationships
 
-## Objectives
+## Learning Goals
 
 * Understand Has Many Through relationships
 * Construct indirect relationships between models (Customers, Waiters, and Meals)
